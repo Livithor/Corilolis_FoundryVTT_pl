@@ -1,2 +1,2 @@
-# Corilolis_FoundryVTT_pl
-Spolszczenie do Systemu Coriolis na Foundry VTT
+# RPG_FoundryVTT_pl
+Spolszczenie do Systemów na Foundry VTT
