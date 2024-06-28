@@ -2,6 +2,6 @@ git:
   filters:
   - filter_type: file
     source_file: englishkopia.xml
-    file_format: XLIFF
+    file_format: PROPERTIESXML
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
